@@ -13,5 +13,5 @@ set(MY_EXECUTABLE_NAME "linuxcppdemo")
 
 add_executable(
   ${MY_EXECUTABLE_NAME}
-  "./src/main.cpp"
+  "src/leet02/solu1.cpp"
 )
